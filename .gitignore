@@ -11,3 +11,15 @@ web-build/
 
 # macOS
 .DS_Store
+
+#vscode
+.vscode
+
+#eslint
+.eslintrc.js
+
+#prettier
+.prettierrc
+
+#editorconfig
+.editorconfig
